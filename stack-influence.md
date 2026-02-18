@@ -46,11 +46,6 @@
 <ul>
 <li>Executed full-lifecycle software development, transitioning from legacy web technologies to modern reactive frameworks.</li>
 </ul>
-<h3 id="technical-projects"><strong>TECHNICAL PROJECTS</strong></h3>
-<ul>
-<li><strong>Hop Protocol Adapter:</strong> Architected a cross-chain liquidity adapter to simplify frontend interactions with smart contracts, focusing on security and state consistency.</li>
-<li><strong>Drips Wave Ecosystem:</strong> Engineered high-performance DeFi interfaces for <strong>Predictify</strong> and <strong>BoundlessFi</strong>, integrating real-time blockchain data via Ethers.js.</li>
-</ul>
 <h3 id="education"><strong>EDUCATION</strong></h3>
 <ul>
 <li><strong>Software Engineering &amp; Techpreneurship</strong> | Semicolon Africa (2023)</li>
